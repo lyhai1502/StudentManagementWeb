@@ -1,0 +1,22 @@
+Thông tin sinh viên:
+	20120073 - Văn Lý Hải
+Bài tập servlet & JSP.
+
+1. Các chức năng đã hoàn thành và chưa hoàn thành
+Các chức năng đã hoàn thành:
+	- Hiển thị danh sách sinh viên gồm đầy đủ các thuộc tính.
+	- Chức năng cơ bản: thêm, xoá, sửa. sắp xếp theo tên và lớp tăng hoặc giảm dần.
+	- Hiển thị danh sách các khoá học từng sinh viên tham gia và điểm số từng môn học.
+	
+	- Hiển thị danh sách các khoá học trong trường có đầy đủ các thuộc tính.
+	- Chức năng cơ bản: thêm, xoá, sửa, sắp xếp theo tên tăng hoặc giảm dần.
+	- Hiển thị danh sách các sinh viên đã đăng ký trong từng môn học, có thêm các chức năng thêm, xoá sinh viên, sửa số điểm.
+
+Các chức năng chưa hoàn thành:
+	- Hiển thị danh sách các khoá học và score board của mỗi sinh viên theo từng năm.
+
+2. Hướng dẫn sử dụng: Xem video trong link sau:
+https://drive.google.com/drive/folders/1wyGk9z5QCj9lcJVg4TmYpCxRo8SeZj0a?usp=share_link
+
+3. Điểm tự đánh giá: 9/10.
+
